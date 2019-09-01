@@ -1,0 +1,49 @@
+{
+  "libros": [
+    {
+      "id": 6,
+      "nombre": "En La Arena Estelar",
+      "precio": "170"
+    },
+    {
+      "id": 7,
+      "nombre": "Las Corrientes Del Espacio",
+      "precio": 459
+    },
+    {
+      "id": 8,
+      "nombre": "Un Guijarro En El Cielo",
+      "precio": 100
+    },
+    {
+      "id": 9,
+      "nombre": "Preludio a la Fundacion",
+      "precio": 229
+    },
+    {
+      "id": 10,
+      "nombre": "Hacia la Fundacion",
+      "precio": 279
+    },
+    {
+      "id": 11,
+      "nombre": "Fundación",
+      "precio": "289"
+    },
+    {
+      "id": 12,
+      "nombre": "Fundación e Imperio",
+      "precio": 289
+    },
+    {
+      "id": 13,
+      "nombre": "Segunda Fundación",
+      "precio": 249
+    },
+    {
+      "nombre": "Los Limites de la Fundación",
+      "precio": "289",
+      "id": 14
+    }
+  ]
+}
